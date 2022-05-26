@@ -1,3 +1,3 @@
 # Python---Electric-Vehicles
-Optimal navigation of electric vehicles
+Optimal navigation of electric vehicles by Pyomo optimization modeling language
 
